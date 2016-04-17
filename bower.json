@@ -1,0 +1,27 @@
+{
+  "name": "conFusion",
+  "homepage": "https://github.com/balaji4894/my-bs-works",
+  "authors": [
+    "balaji4894 <balajiraj1994@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "conFusion",
+    "Fusion",
+    "Restaurant"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "font-awesome": "~4.6.1"
+  }
+}
